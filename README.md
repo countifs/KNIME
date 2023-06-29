@@ -5,6 +5,11 @@ KNIME 포트폴리오
 
 - <a href='https://lungfish.tistory.com/'> 티스토리 - 물 만날 물고기</a> (운영중인 블로그 포스팅을 참고하시기 바랍니다.)
 
+- KNIME 교육 훈련 내용 정리
+- KNIME 활용 프로젝트 정리
+- KNIME 교육 자료 정리
+- 데이터 솔루션 장준호 이사 (팀장) 
+
 | No. | 구분 | 포스팅 | 비고 |
 |:---------:|:---------:|---------|:---------:|
 | 1 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME%EB%82%98%EC%9E%84-Node-Round-Double-%EC%86%8C%EC%88%98%EC%A0%90-%EC%9E%90%EB%A6%AC%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%A0-%EB%95%8C'>[KNIME] Node - "Round Double" 소수점 자리를 변경할 때</a> |- |
