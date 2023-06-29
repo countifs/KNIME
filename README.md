@@ -1,8 +1,6 @@
 # KNIME
 KNIME 포트폴리오
 
----
-
 ### 📈 KNIME 솔루션을 활용한 데이터 분석 및 시각화
 
 - <a href='https://lungfish.tistory.com/'> 티스토리 - 물 만날 물고기</a> (운영중인 블로그 포스팅을 참고하시기 바랍니다.)
