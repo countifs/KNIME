@@ -93,15 +93,15 @@ everytime_hong = pd.DataFrame({'info':info_list, 'rate':rate_list, 'text':text_l
 everytime_hong
 ```
 
-![image-20230418212104020](image-20230418212104020.png)
+![image-20230418212104020](https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/image-20230418212104020.png)
 
 
 
 #### 4. KNIME 솔루션을 활용한 텍스트 데이터 분석 및 워드 클라우드 시각화
 
-![image-20230418205631023](image-20230418205631023.png)
+![image-20230418205631023](https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/image-20230418205631023.png)
 
-![image-20230418210852213](image-20230418210852213.png)
+![image-20230418210852213](https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/image-20230418210852213.png?raw=true)
 
 <br>
 <br>
