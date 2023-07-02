@@ -1,16 +1,18 @@
 # 📈 KNIME
-KNIME 포트폴리오
+
 
 - KNIME 교육 훈련 내용 정리
 - KNIME 활용 프로젝트 정리
 - KNIME 교육 자료 정리
 - 데이터 솔루션 장준호 이사 (팀장) 
 
+###  KNIME 관련 교육이수 및 프로젝트 진행 
 | No. | 구분 | 기간 | 내용 | 비고 |
 |:---------:|:---------:|:---------:|---------|:---------:|
 |1|교육|2023.01.17 ~ 2023.01.18|AI응용 및 데이터융합실습| 강사 : 장준호 이사 <br> (데이터 솔루션)|
-|2|프로젝트 |2023.01.17 ~ 2023.01.18 | <a href='https://github.com/countifs/Research_and_business_2022'> (주)제이오텍 의료용 냉장고의 센서 데이터 기반 이상탐지 프로젝트 </a> | - |
-|3|프로젝트 |2023.01.17 ~ 2023.01.18 | <a href='https://github.com/countifs/portfolio/tree/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/9.%20%EC%97%90%EB%B8%8C%EB%A6%AC%ED%83%80%EC%9E%84%20%EC%88%98%EA%B0%95%ED%9B%84%EA%B8%B0%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D%20%EB%B0%8F%20%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C'>에브리타임 수강후기 텍스트 마이닝 및 워드클라우드| - |
+|2|프로젝트 |2022.07.04 ~ 2022.12.23 | <a href='https://github.com/countifs/Research_and_business_2022'> (주)제이오텍 의료용 냉장고의 센서 데이터 기반 이상탐지 프로젝트 </a> | - |
+|3|프로젝트 |2023.01.20 ~ 2023.01.31 | <a href='https://github.com/countifs/portfolio/tree/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/9.%20%EC%97%90%EB%B8%8C%EB%A6%AC%ED%83%80%EC%9E%84%20%EC%88%98%EA%B0%95%ED%9B%84%EA%B8%B0%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D%20%EB%B0%8F%20%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C'>에브리타임 수강후기 텍스트 마이닝 및 워드클라우드| - |
+
 
 
 <br>
