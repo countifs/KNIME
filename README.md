@@ -57,11 +57,22 @@
 <br>
 
 ---
+# 🔎 (주)제이오텍 의료용 냉장고의 센서 데이터 기반 이상탐지
+
+
+![전처리 파트](https://github.com/countifs/Research_and_business_2022/blob/main/imgaes/%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC(%EA%B9%80%EC%9E%AC%ED%98%B8).png)
+
+![시각화 파트](https://github.com/countifs/Research_and_business_2022/blob/main/imgaes/%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94(%EA%B9%80%EC%9E%AC%ED%98%B8).png)
+
+![프로젝트 기획 및 파일럿 테스트 진행](https://github.com/countifs/Research_and_business_2022/blob/main/imgaes/%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5%20-%20%EB%B6%84%EC%84%9D%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%8C%8C%EC%9D%BC%EB%9F%BF%20%ED%85%8C%EC%8A%A4%ED%8A%B8(%EA%B9%80%EC%9E%AC%ED%98%B8).png)
+
+![데이터 시각화 with KNIME](https://github.com/countifs/Research_and_business_2022/blob/main/imgaes/%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20with%20KNIME(%EA%B9%80%EC%9E%AC%ED%98%B8).png)
+
+![데이터 시각화 예시 with KNIME](https://github.com/countifs/Research_and_business_2022/blob/main/imgaes/%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%98%88%EC%8B%9C%20with%20KNIME(%EA%B9%80%EC%9E%AC%ED%98%B8).png)
+
 <br>
 
-### 📌 프로젝트3. KNIME 솔루션을 활용한 에타 수강후기 분석 및 워드 클라우드 시각화
-
-#### 4. KNIME 솔루션을 활용한 텍스트 데이터 분석 및 워드 클라우드 시각화
+# 🔎 에타 수강후기 분석 및 워드 클라우드 시각화
 
 ![image-20230418212104020](https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/image-20230418212104020.png)
 
