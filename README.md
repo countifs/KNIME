@@ -1,10 +1,8 @@
-# 📈 KNIME
-
-- KNNIME은 쉽다.
+# 📈 빅데이터분석 솔루션 KNIME
 
 <p align="center"><img src="https://github.com/countifs/KNIME/blob/main/images/knime.png"  width="600" height="200"/></p>
 
-
+- KNNIME은 쉽다.
 
 <br>
 
