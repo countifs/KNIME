@@ -4,7 +4,7 @@
 
 <br>
 
-### 🎯 KNIME 관련 교육이수 및 프로젝트 진행 
+## 🎯 KNIME 관련 교육이수 및 프로젝트 진행 
 | No. | 구분 | 기간 | 내용 | 비고 |
 |:---------:|:---------:|:---------:|---------|:---------:|
 |1|교육|23.01.17 <br>~ 23.01.18|AI응용 및 데이터융합실습| 강사 : 장준호 이사 <br> (데이터 솔루션)|
@@ -18,7 +18,7 @@
 <br>
 
 
-###  <a href='https://lungfish.tistory.com/category/KNIME'> 🐟 T-스토리: 물 만날 물고기</a> 
+##  <a href='https://lungfish.tistory.com/category/KNIME'> 🐟 T-스토리: 물 만날 물고기</a> 
 - KNIME을 활용한 데이터 분석 방법과 관련하여 블로그 포스팅을 정리하고 있습니다. 궁금하신 내용은 참고하시기 바랍니다.
 
 | No. | 구분 | 포스팅 | 비고 |
@@ -36,7 +36,7 @@
 
 <br>
 
-### 📖 KNIME 관련 학습 참고자료
+## 📖 KNIME 관련 학습 참고자료
 
 | No. | 구분 | 내용 | 출처 | 비고 |
 |:---------:|:---------:|:---------:|:---------:|:---------:|
@@ -56,9 +56,11 @@
 
 <br>
 
----
 
-# 🔎 1. (주)제이오텍 의료용 냉장고의 센서 데이터 기반 이상탐지
+## 🔎 KNIME 관련 프로젝트 내용 (샘플)
+
+
+## 🔎 1. (주)제이오텍 의료용 냉장고의 센서 데이터 기반 이상탐지
 - KNIME 활용한 데이터 분석 프로토타입 및 파일럿 테스트 진행
 - KNIME 활용한 데이터 시각화 분석 진행
 
@@ -76,7 +78,7 @@
 
 ---
 
-# 🔎 2. 에타 수강후기 분석 및 워드 클라우드 시각화
+## 🔎 2. 에타 수강후기 분석 및 워드 클라우드 시각화
 - KNIME 활용한 텍스트 데이터 분석 및 워드클라우드 시각화 진행
 - 데이터 수집 (웹크롤링)은 파이썬을 통해 진행함
 
@@ -92,7 +94,7 @@
 
 ---
 
-# 🔎 3. 2022년 K-인공지능 제조데이터 분석 경진대회 (KAMP)
+## 🔎 3. 2022년 K-인공지능 제조데이터 분석 경진대회 (KAMP)
 - KNIME 활용한 데이터 시각화 및 의사결정나무 모델링 분석 진행
 
 ![KNIME1](https://github.com/countifs/KNIME/blob/main/images/knime1.png)
@@ -102,7 +104,7 @@
 
 ---
 
-# 🔎 4. Cirrhosis Prediction
+## 🔎 4. Cirrhosis Prediction
 -  KNIME을 활용한 파일럿 테스트 및 DataRobot AI플랫폼의 AutoML 분석 진행
 
 ![datarobot1](https://github.com/countifs/KNIME/blob/main/images/DataRobot_1.png)
@@ -114,7 +116,7 @@
 
 ---
 
-# 🔎 5. Automated energy consumption forecasting with EnForce
+## 🔎 5. Automated energy consumption forecasting with EnForce
 -  KNIME을 활용한 파일럿 테스트 및 DataRobot AI플랫폼의 AutoML 분석 진행
 
 ![datarobot6](https://github.com/countifs/KNIME/blob/main/images/DataRobot_6.png)
