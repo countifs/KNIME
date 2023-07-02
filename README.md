@@ -6,7 +6,15 @@ KNIME 포트폴리오
 - KNIME 교육 자료 정리
 - 데이터 솔루션 장준호 이사 (팀장) 
 
+| No. | 구분 | 기간 | 내용 | 비고 |
+|:---------:|:---------:|:---------:|---------|:---------:|
+|1|교육|2023.01.17 ~ 2023.01.18|AI응용 및 데이터융합실습| 강사 : 장준호 이사 <br> (데이터 솔루션)|
+|2|프로젝트 |2023.01.17 ~ 2023.01.18 | <a href='https://github.com/countifs/Research_and_business_2022'> (주)제이오텍 의료용 냉장고의 센서 데이터 기반 이상탐지 프로젝트 </a> | - |
+|3|프로젝트 |2023.01.17 ~ 2023.01.18 | <a href='https://github.com/countifs/portfolio/tree/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/9.%20%EC%97%90%EB%B8%8C%EB%A6%AC%ED%83%80%EC%9E%84%20%EC%88%98%EA%B0%95%ED%9B%84%EA%B8%B0%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D%20%EB%B0%8F%20%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C'>에브리타임 수강후기 텍스트 마이닝 및 워드클라우드| - |
+
+
 <br>
+
 
 ###  <a href='https://lungfish.tistory.com/category/KNIME'> ※ T-스토리: 물 만날 물고기</a> 
 - KNIME을 활용한 데이터 분석 방법과 관련하여 블로그 포스팅을 정리하고 있습니다. 궁금하신 내용은 참고하시기 바랍니다.
@@ -44,16 +52,6 @@ KNIME 포트폴리오
 | 12 | 블로그 | <a href='https://blog.ex-em.com/category/%EC%97%91%EC%85%88%20%EA%B2%BD%EC%9F%81%EB%A0%A5/Knock%2C%20Knock%21%20KNIME'>'엑셈 경쟁력/Knock, Knock! KNIME' 카테고리의 글 목록</a> | <a href='https://blog.ex-em.com/'>NOW엑셈</a> | - |
 | 13 | 블로그 | <a href='https://m.blog.naver.com/PostList.naver?blogId=zalesia2020&categoryName=%EB%82%98%EC%9E%84_KNIME&categoryNo=17&logCode=0'>잘레시아 공식 블로그 : 네이버 블로그 - 나임(KNIME)</a> | <a href='https://m.blog.naver.com/PostList.naver?blogId=zalesia2020'>잘레시아 공식 블로그</a> | - |
 
-
-
-
-
-
-
-
-
-
-
 <br>
 
 ---
@@ -61,82 +59,9 @@ KNIME 포트폴리오
 
 ### 📌 [사이드 프로젝트] KNIME 솔루션을 활용한 에타 수강후기 분석 및 워드 클라우드 시각화
 
-<br>
-
-#### 1. 데이터 수집 (리뷰가 많지 않아서 크롤링은 사용하지 않고 웹페이지 HTML 복사하여 txt파일로 저장)
-
-```
-- 에타 접속 (https://everytime.kr/) 생략가능, 로그인으로 바로 이동
-- 에타 로그인 (https://everytime.kr/login)
-- 에타 강의실 페이지로 이동 (https://everytime.kr/lecture)
-- 에타 강의 평가 이동 (https://everytime.kr/lecture/view/930295)
-- 에타 강의 평가 통계처리 입문 (https://everytime.kr/lecture/view/930295?tab=article)
-```
-
-
-#### 2. 모듈 불러오기
-
-```python
-import requests
-from bs4 import BeautifulSoup
-
-import selenium
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By 
-
-# 크롬 드라이버 자동 업데이트
-from webdriver_manager.chrome import ChromeDriverManager
-
-import time
-import random 
-import pyautogui
-import pyperclip
-
-import pandas as pd
-```
-
-
-
-#### 3. txt파일 불러오기 및  html 파싱
-
-```python
-# txt파일 불러오기
-with open('통계처리입문.txt', 'r', encoding='utf-8') as f:
-    text = f.read()
-
-soup = BeautifulSoup(text, 'html.parser')
-articles = soup.select('div.article')
-texts = soup.select('div.text')
-rates = soup.select('span.on')
-infos = soup.select('span.semester')
-# articles = soup.find_all('div', class_='article')
-
-info_list = []
-rate_list = []
-text_list = []
-
-i = 1
- 
-for info, rate, text in zip(infos, rates, texts):
-    info_list.append(info.text.strip() )
-    rate_list.append(rate['style'] )
-    text_list.append(text.text.strip() )
-    i += 1 
-    
-rate_list = [rate.split(':')[1].strip() for rate in rate_list]
-rate_list = [rate.split('%')[0] for rate in rate_list]   
-
-everytime_hong = pd.DataFrame({'info':info_list, 'rate':rate_list, 'text':text_list})
-everytime_hong
-```
+#### 4. KNIME 솔루션을 활용한 텍스트 데이터 분석 및 워드 클라우드 시각화
 
 ![image-20230418212104020](https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/image-20230418212104020.png)
-
-
-
-#### 4. KNIME 솔루션을 활용한 텍스트 데이터 분석 및 워드 클라우드 시각화
 
 ![image-20230418205631023](https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/image-20230418205631023.png)
 
