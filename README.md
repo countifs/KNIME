@@ -77,6 +77,7 @@
 <br>
 
 ---
+<br>
 
 ### 📌 2. 에타 수강후기 분석 및 워드 클라우드 시각화
 - KNIME 활용한 텍스트 데이터 분석 및 워드클라우드 시각화 진행
@@ -93,6 +94,7 @@
 <br>
 
 ---
+<br>
 
 ### 📌 3. 2022년 K-인공지능 제조데이터 분석 경진대회 (KAMP)
 - KNIME 활용한 데이터 시각화 및 의사결정나무 모델링 분석 진행
@@ -103,6 +105,7 @@
 <br>
 
 ---
+<br>
 
 ### 📌 4. Cirrhosis Prediction
 -  KNIME을 활용한 파일럿 테스트 및 DataRobot AI플랫폼의 AutoML 분석 진행
@@ -115,6 +118,7 @@
 <br>
 
 ---
+<br>
 
 ### 📌 5. Automated energy consumption forecasting with EnForce
 -  KNIME을 활용한 파일럿 테스트 및 DataRobot AI플랫폼의 AutoML 분석 진행
