@@ -69,11 +69,12 @@
 - 강사 : 데이터 솔루션 장준호 이사
 - 강의기간 : 2023년 1월17일(화)~18일(수)
 - 강의목표 : 전자제조 산업에 활용 가능한 인공지능 응용 예제 및 데이터 융합 실습
+
+<br>
+
 ![KNIME3](https://github.com/countifs/KNIME/blob/main/images/knime3.png)
 ![KNIME4](https://github.com/countifs/KNIME/blob/main/images/knime4.png)
 ![KNIME5](https://github.com/countifs/KNIME/blob/main/images/knime5.png)
-
-
 
 <br>
 
