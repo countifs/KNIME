@@ -90,6 +90,8 @@
 
 <br>
 
+---
+
 # 🔎 3. 2022년 K-인공지능 제조데이터 분석 경진대회 (KAMP)
 - KNIME 활용한 데이터 시각화 및 의사결정나무 모델링 분석 진행
 
@@ -97,5 +99,25 @@
 ![KNIME2](https://github.com/countifs/KNIME/blob/main/images/knime2.png)
 
 <br>
+
+---
+
+# 🔎 4. Cirrhosis Prediction
+-  KNIME을 활용한 파일럿 테스트 및 DataRobot AI플랫폼의 AutoML 분석 진행
+
+![datarobot1](https://github.com/countifs/KNIME/blob/main/images/DataRobot_1.png)
+![datarobot2](https://github.com/countifs/KNIME/blob/main/images/DataRobot_2.png)
+![datarobot4](https://github.com/countifs/KNIME/blob/main/images/DataRobot_4.png)
+![datarobot5](https://github.com/countifs/KNIME/blob/main/images/DataRobot_5.png)
+
+<br>
+
+---
+
+# 🔎 5. Automated energy consumption forecasting with EnForce
+-  KNIME을 활용한 파일럿 테스트 및 DataRobot AI플랫폼의 AutoML 분석 진행
+
+![datarobot6](https://github.com/countifs/KNIME/blob/main/images/DataRobot_6.png)
+![datarobot7](https://github.com/countifs/KNIME/blob/main/images/DataRobot_7.png)
 
 
