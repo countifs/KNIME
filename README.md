@@ -59,7 +59,8 @@
 ---
 
 # 🔎 1. (주)제이오텍 의료용 냉장고의 센서 데이터 기반 이상탐지
-
+- KNIME 활용한 데이터 분석 프로토타입 및 파일럿 테스트 진행
+- KNIME 활용한 데이터 시각화 분석 진행
 
 ![전처리 파트](https://github.com/countifs/Research_and_business_2022/blob/main/imgaes/%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC(%EA%B9%80%EC%9E%AC%ED%98%B8).png)
 
@@ -76,7 +77,7 @@
 ---
 
 # 🔎 2. 에타 수강후기 분석 및 워드 클라우드 시각화
-
+- KNIME 활용한 텍스트 데이터 분석 및 워드클라우드 시각화 진행
 ![image-20230418212104020](https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/image-20230418212104020.png)
 
 ![image-20230418205631023](https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/image-20230418205631023.png)
@@ -86,6 +87,7 @@
 <br>
 
 # 🔎 3. 2022년 K-인공지능 제조데이터 분석 경진대회 (KAMP)
+- KNIME 활용한 데이터 시각화 및 의사결정나무 모델링 분석 진행
 
 ![KNIME1](https://github.com/countifs/KNIME/blob/main/images/knime1.png)
 ![KNIME2](https://github.com/countifs/KNIME/blob/main/images/knime2.png)
