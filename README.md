@@ -85,7 +85,10 @@
 
 <br>
 
----
+# 🔎 3. 2022년 K-인공지능 제조데이터 분석 경진대회 (KAMP)
+
+![KNIME1](https://github.com/countifs/KNIME/blob/main/images/knime1.png)
+![KNIME2](https://github.com/countifs/KNIME/blob/main/images/knime2.png)
 
 <br>
 
