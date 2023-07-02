@@ -1,5 +1,5 @@
 # 📈 KNIME
-- KNIME을 활용한 데이터 분석 및 학습 자료 등을 정리한 저장소 입니다.
+KNIME을 활용한 데이터 분석 및 학습 자료 등을 정리한 저장소 입니다.
 <br>
 
 <p align="center"><img src="https://github.com/countifs/KNIME/blob/main/images/knime.png"  width="600" height="200"/></p>
