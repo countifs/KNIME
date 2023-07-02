@@ -26,12 +26,28 @@ KNIME 포트폴리오
 
 - 학습 참고자료
 
-| No. | 구분 | 출처 | 내용 | 비고 |
+| No. | 구분 | 내용 | 출처 | 비고 |
 |:---------:|:---------:|:---------:|:---------:|:---------:|
-| 1 | 유튜브 |<a href='https://www.youtube.com/@keris_in'>한국교육학술정보원(KERIS) - YouTube</a>  |<a href='https://www.youtube.com/playlist?list=PLtu-pl93xMXhChnxkV4O-BSrCMx2KE9eX'>노코딩 플랫폼을 활용한 기계학습 - YouTube</a>| - |
-| 2 | 유튜브 |<a href='https://www.youtube.com/@exem-tv'>엑셈TV - YouTube</a>|<a href='https://www.youtube.com/playlist?list=PLCkO8I_DSQ7et45lHXlqKx-TDmyFCM2pg'>KNIME - YouTube</a> | - |
-| 3 | 웹페이지 |<a href='http://owleye.co.kr/contents-knime/'>Contents KNIME – OWLEYE</a>|<a href='http://owleye.co.kr/'>OWLEYE – 새로운 시각 새로운 감각</a> | - |
-| 4 | - | - | - | - |
+| - | 웹 | <a href='https://hub.knime.com/'>KNIME Community Hub</a> | <a href='https://www.knime.com/'>KNIME</a> | - |
+| - | 도서 | <a href='https://product.kyobobook.co.kr/detail/S000200567415'>데이터 전처리 및 통합분석 with KNIME </a> | 잘레시아 - 교보문고 | - |
+| - | 도서 | <a href='https://product.kyobobook.co.kr/detail/S000001914353'>KNIME을 활용한 Big Data분석</a> |  엑셈 - 교보문고 | - |
+| 1 | 유튜브 | <a href='https://www.youtube.com/playlist?list=PLtu-pl93xMXhChnxkV4O-BSrCMx2KE9eX'>노코딩 플랫폼을 활용한 기계학습 - YouTube</a>| <a href='https://www.youtube.com/@keris_in'>한국교육학술정보원(KERIS) - YouTube</a>  |- |
+| 2 | 유튜브 | <a href='https://www.youtube.com/playlist?list=PLCkO8I_DSQ7et45lHXlqKx-TDmyFCM2pg'>KNIME - YouTube</a> |<a href='https://www.youtube.com/@exem-tv'>엑셈TV - YouTube</a>| - |
+| 3 | 웹 |<a href='http://owleye.co.kr/contents-knime/'>Contents KNIME – OWLEYE</a>|<a href='http://owleye.co.kr/'>OWLEYE – 새로운 시각 새로운 감각</a> | - |
+| 4 | 위키독 | <a href='https://wikidocs.net/book/8838'>Flow로 쉽게 배우는 Knime Codeless 코딩 - WikiDocs</a> | <a href='https://wikidocs.net/profile/info/book/17499'>wikidocs.net/profile/info/book/17499</a> | - |
+| 5 | 블로그 | <a href='https://m.blog.naver.com/PostList.naver?blogId=newdataworld&categoryName=%EB%82%98%EC%9E%84%28KNIME%29&categoryNo=20&logCode=0'> 데이타솔루션 공식 블로그 -나임(KNIME)  | <a href='https://m.blog.naver.com/PostList.naver?blogId=newdataworld'>데이타솔루션 공식 블로그 : 네이버 블로그</a> | - |
+| 4 | 유튜브 | <a href='https://www.youtube.com/playlist?list=PL0lkHWVqBqedisAiU93nS16vYpWLF3JUo'>[KNIME] 데이터 전처리 및 통합 분석 소프트웨어 : 나임 - YouTube</a> | <a href='https://www.youtube.com/@zalesia'>잘레시아 - YouTube</a> | - |
+| 4 | 블로그 | <a href='https://blog.ex-em.com/category/%EC%97%91%EC%85%88%20%EA%B2%BD%EC%9F%81%EB%A0%A5/Knock%2C%20Knock%21%20KNIME'>'엑셈 경쟁력/Knock, Knock! KNIME' 카테고리의 글 목록</a> | <a href='https://blog.ex-em.com/'>NOW엑셈</a> | - |
+| - | 유튜브 | <a href='https://www.youtube.com/playlist?list=PLGE0aeja4xc1dhVwCWe4kz9tblIgwJOd4'>Knime 프로그램 실습 (바이오화학) - YouTube</a> | <a href='https://www.youtube.com/@chemicalinformation'>이성광 - YouTube</a> | - |
+| - | 블로그 | <a href='https://m.blog.naver.com/PostList.naver?blogId=zalesia2020&categoryName=%EB%82%98%EC%9E%84_KNIME&categoryNo=17&logCode=0'>잘레시아 공식 블로그 : 네이버 블로그 - 나임(KNIME)</a> | <a href='https://m.blog.naver.com/PostList.naver?blogId=zalesia2020'>잘레시아 공식 블로그 : 네이버 블로그</a> | - |
+| - | 유튜브 | <a href='https://www.youtube.com/playlist?list=PLz3mQ6OlTI0Zoz5pcha7tiPP9vGU8UDza'>L1 - YouTube</a>, <a href='https://www.youtube.com/playlist?list=PLz3mQ6OlTI0Yd4UtwQ7x77Hoh5MSuN66M'>L2 - YouTube</a> , <a href='https://www.youtube.com/playlist?list=PLz3mQ6OlTI0Y9NNVxUptE9IAnywzSBbWP'>L3 - YouTube</a>  | <a href='https://www.youtube.com/@KNIMETV'>KNIMETV - YouTube</a> | - |
+
+
+
+
+
+
+
 
 
 
