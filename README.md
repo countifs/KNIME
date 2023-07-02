@@ -116,7 +116,7 @@
 <br>
 
 ### 📌 4. 2022년 K-인공지능 제조데이터 분석 경진대회 (KAMP)
-- KNIME 활용한 데이터 시각화 및 의사결정나무 모델링 분석 진행
+- KNIME 활용한 데이터 전처리, 시각화 및 의사결정나무 모델링 분석 진행
 
 ![KNIME1](https://github.com/countifs/KNIME/blob/main/images/knime1.png)
 ![KNIME2](https://github.com/countifs/KNIME/blob/main/images/knime2.png)
