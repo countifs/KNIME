@@ -22,6 +22,11 @@ KNIME 포트폴리오
 | 8 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Workflow-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%EC%97%90-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-2%ED%8E%B8-Constant-Value-Column-%EB%85%B8%EB%93%9C'>[KNIME] Workflow - 데이터셋에 특정 문자열로 컬럼을 추가하고 싶을 때 - 2편 (Constant Value Column 노드)</a> |- |
 
 
+- 학습 참고자료
+
+| No. | 구분 | 출처 | 내용 | 비고 |
+|:---------:|:---------:|---------|:---------:|:---------:|
+| 1 | 유튜브 |<a href='https://www.youtube.com/@keris_in'>한국교육학술정보원(KERIS) - YouTube</a>  |<a href='https://www.youtube.com/playlist?list=PLtu-pl93xMXhChnxkV4O-BSrCMx2KE9eX'>노코딩 플랫폼을 활용한 기계학습 - YouTube</a>| - |
 
 <br>
 
