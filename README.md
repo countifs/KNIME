@@ -2,6 +2,10 @@
 
 - KNNIME은 쉽다.
 
+<p align="center"><img src="https://github.com/countifs/KNIME/blob/main/images/knime.png"  width="600" height="200"/></p>
+
+
+
 <br>
 
 ## 🎯 KNIME 관련 교육이수 및 프로젝트 진행 
