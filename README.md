@@ -1,46 +1,49 @@
-# KNIME
+# 📈 KNIME
 KNIME 포트폴리오
-
-### 📈 KNIME 솔루션을 활용한 데이터 분석 및 시각화
-
-- <a href='https://lungfish.tistory.com/'> 티스토리 - 물 만날 물고기</a> (운영중인 블로그 포스팅을 참고하시기 바랍니다.)
 
 - KNIME 교육 훈련 내용 정리
 - KNIME 활용 프로젝트 정리
 - KNIME 교육 자료 정리
 - 데이터 솔루션 장준호 이사 (팀장) 
 
+<br>
+
+###  <a href='https://lungfish.tistory.com/category/KNIME'> ※ T-스토리: 물 만날 물고기</a> 
+- KNIME을 활용한 데이터 분석 방법과 관련하여 블로그 포스팅을 정리하고 있습니다. 궁금하신 내용은 참고하시기 바랍니다.
+
 | No. | 구분 | 포스팅 | 비고 |
 |:---------:|:---------:|---------|:---------:|
-| 1 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME%EB%82%98%EC%9E%84-Node-Round-Double-%EC%86%8C%EC%88%98%EC%A0%90-%EC%9E%90%EB%A6%AC%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%A0-%EB%95%8C'>[KNIME] Node - "Round Double" 소수점 자리를 변경할 때</a> |- |
-| 2 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME%EB%82%98%EC%9E%84-Workflow-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%EC%97%90-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C'>[KNIME] Workflow - 데이터셋에 특정 문자열로 컬럼을 추가하고 싶을 때</a> |- |
-| 3 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME%EB%82%98%EC%9E%84-Workflow-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4Decision-Tree%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-UCI-%EC%9C%A0%EB%B0%A9%EC%95%94Breast-Cancer-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D'>[KNIME] Workflow - 의사결정나무(Decision Tree)를 이용한 UCI 유방암(Breast Cancer) 데이터 분석</a> |- |
-| 4 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Setting-Memory-%ED%95%A0%EB%8B%B9-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0-RAM-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%A6%9D%EA%B0%80-%EA%B0%90%EC%86%8C'>[KNIME] Setting - Memory 할당 변경하기 (RAM 메모리 증가, 감소)</a> |- |
-| 5 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Workflow-%EA%B0%81-%ED%96%89%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%95%A9%EA%B3%84%EB%A5%BC-%EA%B3%84%EC%82%B0%ED%95%98%EA%B3%A0-%EC%BB%AC%EB%9F%BC-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0'>[KNIME] Workflow - 각 행(인덱스)별 합계 컬럼 추가하기</a> |- |
-| 6 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Workflow-Missing-Value%EA%B2%B0%EC%B8%A1%EC%B9%98-%ED%99%95%EC%9D%B8-%EB%B0%8F-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0'>[KNIME] Workflow - Missing Value(결측치) 확인 및 처리하기</a> |- |
-| 7 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Node-Nuemeric-Binner-%EC%97%B0%EC%86%8D%ED%98%95-%EB%B3%80%EC%88%98%EB%A5%BC-%EB%B2%94%EC%A3%BC%ED%99%94-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-%EA%B5%AC%EA%B0%84%ED%99%94-Binning'>[KNIME] Node - "Nuemeric Binner" 연속형 변수를 범주화 하고 싶을 때 (구간화 Binning)</a> |- |
-| 8 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Workflow-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%EC%97%90-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-2%ED%8E%B8-Constant-Value-Column-%EB%85%B8%EB%93%9C'>[KNIME] Workflow - 데이터셋에 특정 문자열로 컬럼을 추가하고 싶을 때 - 2편 (Constant Value Column 노드)</a> |- |
+| 1 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Workflow-%EB%B6%88%EA%B7%A0%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0-Imbalanced-data-%EC%98%A4%EB%B2%84%EC%83%98%ED%94%8C%EB%A7%81-%ED%95%98%EA%B8%B0'>[KNIME] Workflow - 불균형 데이터 (Imbalanced data) 오버샘플링 하기</a> |- |
+| 2 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME%EB%82%98%EC%9E%84-Node-Round-Double-%EC%86%8C%EC%88%98%EC%A0%90-%EC%9E%90%EB%A6%AC%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%A0-%EB%95%8C'>[KNIME] Node - "Round Double" 소수점 자리를 변경할 때</a> |- |
+| 3 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME%EB%82%98%EC%9E%84-Workflow-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%EC%97%90-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C'>[KNIME] Workflow - 데이터셋에 특정 문자열로 컬럼을 추가하고 싶을 때</a> |- |
+| 4 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME%EB%82%98%EC%9E%84-Workflow-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4Decision-Tree%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-UCI-%EC%9C%A0%EB%B0%A9%EC%95%94Breast-Cancer-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D'>[KNIME] Workflow - 의사결정나무(Decision Tree)를 이용한 UCI 유방암(Breast Cancer) 데이터 분석</a> |- |
+| 5 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Setting-Memory-%ED%95%A0%EB%8B%B9-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0-RAM-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%A6%9D%EA%B0%80-%EA%B0%90%EC%86%8C'>[KNIME] Setting - Memory 할당 변경하기 (RAM 메모리 증가, 감소)</a> |- |
+| 6 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Workflow-%EA%B0%81-%ED%96%89%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%95%A9%EA%B3%84%EB%A5%BC-%EA%B3%84%EC%82%B0%ED%95%98%EA%B3%A0-%EC%BB%AC%EB%9F%BC-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0'>[KNIME] Workflow - 각 행(인덱스)별 합계 컬럼 추가하기</a> |- |
+| 7 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Workflow-Missing-Value%EA%B2%B0%EC%B8%A1%EC%B9%98-%ED%99%95%EC%9D%B8-%EB%B0%8F-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0'>[KNIME] Workflow - Missing Value(결측치) 확인 및 처리하기</a> |- |
+| 8 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Node-Nuemeric-Binner-%EC%97%B0%EC%86%8D%ED%98%95-%EB%B3%80%EC%88%98%EB%A5%BC-%EB%B2%94%EC%A3%BC%ED%99%94-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-%EA%B5%AC%EA%B0%84%ED%99%94-Binning'>[KNIME] Node - "Nuemeric Binner" 연속형 변수를 범주화 하고 싶을 때 (구간화 Binning)</a> |- |
+| 9 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Workflow-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%EC%97%90-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-2%ED%8E%B8-Constant-Value-Column-%EB%85%B8%EB%93%9C'>[KNIME] Workflow - 데이터셋에 특정 문자열로 컬럼을 추가하고 싶을 때 - 2편 (Constant Value Column 노드)</a> |- |
 
 
-<br> 
+<br>
 
-- 학습 참고자료
+### 📖 학습 참고자료
 
 | No. | 구분 | 내용 | 출처 | 비고 |
 |:---------:|:---------:|:---------:|:---------:|:---------:|
-| - | 웹 | <a href='https://hub.knime.com/'>KNIME Community Hub</a> | <a href='https://www.knime.com/'>KNIME</a> | - |
-| - | 도서 | <a href='https://product.kyobobook.co.kr/detail/S000200567415'>데이터 전처리 및 통합분석 with KNIME </a> | 잘레시아 - 교보문고 | - |
-| - | 도서 | <a href='https://product.kyobobook.co.kr/detail/S000001914353'>KNIME을 활용한 Big Data분석</a> |  엑셈 - 교보문고 | - |
-| 1 | 유튜브 | <a href='https://www.youtube.com/playlist?list=PLtu-pl93xMXhChnxkV4O-BSrCMx2KE9eX'>노코딩 플랫폼을 활용한 기계학습 - YouTube</a>| <a href='https://www.youtube.com/@keris_in'>한국교육학술정보원(KERIS) - YouTube</a>  |- |
-| 2 | 유튜브 | <a href='https://www.youtube.com/playlist?list=PLCkO8I_DSQ7et45lHXlqKx-TDmyFCM2pg'>KNIME - YouTube</a> |<a href='https://www.youtube.com/@exem-tv'>엑셈TV - YouTube</a>| - |
-| 3 | 웹 |<a href='http://owleye.co.kr/contents-knime/'>Contents KNIME – OWLEYE</a>|<a href='http://owleye.co.kr/'>OWLEYE – 새로운 시각 새로운 감각</a> | - |
-| 4 | 위키독 | <a href='https://wikidocs.net/book/8838'>Flow로 쉽게 배우는 Knime Codeless 코딩 - WikiDocs</a> | <a href='https://wikidocs.net/profile/info/book/17499'>wikidocs.net/profile/info/book/17499</a> | - |
-| 5 | 블로그 | <a href='https://m.blog.naver.com/PostList.naver?blogId=newdataworld&categoryName=%EB%82%98%EC%9E%84%28KNIME%29&categoryNo=20&logCode=0'> 데이타솔루션 공식 블로그 -나임(KNIME)  | <a href='https://m.blog.naver.com/PostList.naver?blogId=newdataworld'>데이타솔루션 공식 블로그 : 네이버 블로그</a> | - |
-| 4 | 유튜브 | <a href='https://www.youtube.com/playlist?list=PL0lkHWVqBqedisAiU93nS16vYpWLF3JUo'>[KNIME] 데이터 전처리 및 통합 분석 소프트웨어 : 나임 - YouTube</a> | <a href='https://www.youtube.com/@zalesia'>잘레시아 - YouTube</a> | - |
-| 4 | 블로그 | <a href='https://blog.ex-em.com/category/%EC%97%91%EC%85%88%20%EA%B2%BD%EC%9F%81%EB%A0%A5/Knock%2C%20Knock%21%20KNIME'>'엑셈 경쟁력/Knock, Knock! KNIME' 카테고리의 글 목록</a> | <a href='https://blog.ex-em.com/'>NOW엑셈</a> | - |
-| - | 유튜브 | <a href='https://www.youtube.com/playlist?list=PLGE0aeja4xc1dhVwCWe4kz9tblIgwJOd4'>Knime 프로그램 실습 (바이오화학) - YouTube</a> | <a href='https://www.youtube.com/@chemicalinformation'>이성광 - YouTube</a> | - |
-| - | 블로그 | <a href='https://m.blog.naver.com/PostList.naver?blogId=zalesia2020&categoryName=%EB%82%98%EC%9E%84_KNIME&categoryNo=17&logCode=0'>잘레시아 공식 블로그 : 네이버 블로그 - 나임(KNIME)</a> | <a href='https://m.blog.naver.com/PostList.naver?blogId=zalesia2020'>잘레시아 공식 블로그 : 네이버 블로그</a> | - |
-| - | 유튜브 | <a href='https://www.youtube.com/playlist?list=PLz3mQ6OlTI0Zoz5pcha7tiPP9vGU8UDza'>L1 - YouTube</a>, <a href='https://www.youtube.com/playlist?list=PLz3mQ6OlTI0Yd4UtwQ7x77Hoh5MSuN66M'>L2 - YouTube</a> , <a href='https://www.youtube.com/playlist?list=PLz3mQ6OlTI0Y9NNVxUptE9IAnywzSBbWP'>L3 - YouTube</a>  | <a href='https://www.youtube.com/@KNIMETV'>KNIMETV - YouTube</a> | - |
+| 1 | 웹 | <a href='https://hub.knime.com/'>KNIME Community Hub</a> | <a href='https://www.knime.com/'>KNIME</a> | - |
+| 2 | 웹 |<a href='http://owleye.co.kr/contents-knime/'>Contents KNIME – OWLEYE</a>|<a href='http://owleye.co.kr/'>OWLEYE – 새로운 시각 새로운 감각</a> | - |
+| 3 | 도서 | <a href='https://product.kyobobook.co.kr/detail/S000200567415'>데이터 전처리 및 통합분석 with KNIME </a> | 잘레시아 - 교보문고 | - |
+| 4 | 도서 | <a href='https://product.kyobobook.co.kr/detail/S000001914353'>KNIME을 활용한 Big Data분석</a> |  엑셈 - 교보문고 | - |
+| 5 | WikiDocs | <a href='https://wikidocs.net/book/8838'>Flow로 쉽게 배우는 Knime Codeless 코딩 - WikiDocs</a> | <a href='https://wikidocs.net/profile/info/book/17499'>JUNG SUN LIM</a> | - |
+| 6 | 유튜브 | <a href='https://www.youtube.com/playlist?list=PLtu-pl93xMXhChnxkV4O-BSrCMx2KE9eX'>노코딩 플랫폼을 활용한 기계학습 - YouTube</a>| <a href='https://www.youtube.com/@keris_in'>한국교육학술정보원(KERIS) - YouTube</a>  |- |
+| 7 | 유튜브 | <a href='https://www.youtube.com/playlist?list=PLCkO8I_DSQ7et45lHXlqKx-TDmyFCM2pg'>KNIME - YouTube</a> |<a href='https://www.youtube.com/@exem-tv'>엑셈TV - YouTube</a>| - |
+| 8 | 유튜브 | <a href='https://www.youtube.com/playlist?list=PL0lkHWVqBqedisAiU93nS16vYpWLF3JUo'>[KNIME] 데이터 전처리 및 통합 분석 소프트웨어 : 나임 - YouTube</a> | <a href='https://www.youtube.com/@zalesia'>잘레시아 - YouTube</a> | - |
+| 9 | 유튜브 | <a href='https://www.youtube.com/playlist?list=PLGE0aeja4xc1dhVwCWe4kz9tblIgwJOd4'>Knime 프로그램 실습 (바이오화학) - YouTube</a> | <a href='https://www.youtube.com/@chemicalinformation'>이성광 - YouTube</a> | - |
+| 10 | 유튜브 | <a href='https://www.youtube.com/playlist?list=PLz3mQ6OlTI0Zoz5pcha7tiPP9vGU8UDza'>L1 - YouTube</a>, <a href='https://www.youtube.com/playlist?list=PLz3mQ6OlTI0Yd4UtwQ7x77Hoh5MSuN66M'>L2 - YouTube</a> , <a href='https://www.youtube.com/playlist?list=PLz3mQ6OlTI0Y9NNVxUptE9IAnywzSBbWP'>L3 - YouTube</a>  | <a href='https://www.youtube.com/@KNIMETV'>KNIMETV - YouTube</a> | - |
+| 11 | 블로그 | <a href='https://m.blog.naver.com/PostList.naver?blogId=newdataworld&categoryName=%EB%82%98%EC%9E%84%28KNIME%29&categoryNo=20&logCode=0'> 데이타솔루션 공식 블로그 -나임(KNIME)  | <a href='https://m.blog.naver.com/PostList.naver?blogId=newdataworld'>데이타솔루션 공식 블로그</a> | - |
+| 12 | 블로그 | <a href='https://blog.ex-em.com/category/%EC%97%91%EC%85%88%20%EA%B2%BD%EC%9F%81%EB%A0%A5/Knock%2C%20Knock%21%20KNIME'>'엑셈 경쟁력/Knock, Knock! KNIME' 카테고리의 글 목록</a> | <a href='https://blog.ex-em.com/'>NOW엑셈</a> | - |
+| 13 | 블로그 | <a href='https://m.blog.naver.com/PostList.naver?blogId=zalesia2020&categoryName=%EB%82%98%EC%9E%84_KNIME&categoryNo=17&logCode=0'>잘레시아 공식 블로그 : 네이버 블로그 - 나임(KNIME)</a> | <a href='https://m.blog.naver.com/PostList.naver?blogId=zalesia2020'>잘레시아 공식 블로그</a> | - |
+
 
 
 
