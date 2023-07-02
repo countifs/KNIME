@@ -27,7 +27,7 @@ KNIME 포트폴리오
 - 학습 참고자료
 
 | No. | 구분 | 출처 | 내용 | 비고 |
-|:---------:|:---------:|---------|:---------:|:---------:|
+|:---------:|:---------:|:---------:|:---------:|:---------:|
 | 1 | 유튜브 |<a href='https://www.youtube.com/@keris_in'>한국교육학술정보원(KERIS) - YouTube</a>  |<a href='https://www.youtube.com/playlist?list=PLtu-pl93xMXhChnxkV4O-BSrCMx2KE9eX'>노코딩 플랫폼을 활용한 기계학습 - YouTube</a>| - |
 | 2 | 유튜브 |<a href='https://www.youtube.com/@exem-tv'>엑셈TV - YouTube</a>|<a href='https://www.youtube.com/playlist?list=PLCkO8I_DSQ7et45lHXlqKx-TDmyFCM2pg'>KNIME - YouTube</a> | - |
 | 3 | 웹페이지 |<a href='http://owleye.co.kr/contents-knime/'>Contents KNIME – OWLEYE</a>|<a href='http://owleye.co.kr/'>OWLEYE – 새로운 시각 새로운 감각</a> | - |
